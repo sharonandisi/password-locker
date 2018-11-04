@@ -1,0 +1,52 @@
+
+h1{
+    text-align: center;
+    font-style: oblique;
+    font-family: 'Lucida Sans';
+
+}
+
+body{
+    background-color: rgb(88, 225, 235);
+}
+ol{
+    text-align: center;
+}
+
+
+
+
+
+.align{
+    text-align: center;
+    color:plum;
+    font: 1em sans-serif;
+    font-style: italic;
+}
+
+.blue{
+    text-align: center;
+
+}
+#tropical{
+    color: #f7325e;
+}
+.coral{
+    color: coral;
+}
+.gallery{
+    float: right;
+}
+
+#burgundy{
+    color: maroon;
+    font-size: medium;
+    font-style: oblique;
+    font-family: arial;
+    text-align: center;
+}
+
+.gallery1{
+    float: left;
+}
+
