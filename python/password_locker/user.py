@@ -1,4 +1,4 @@
-class user:
+class User:
     """
     this class holds user details
     """
