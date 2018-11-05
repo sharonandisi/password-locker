@@ -11,7 +11,7 @@ class Usertest(unittest.TestCase):
         this creates a new user before a test run
         """
         self.new_user = User("migidza-andisi","shay123")
-
+    
     def signuptest(self):
         """
         this will test whether the user is saved correctly
